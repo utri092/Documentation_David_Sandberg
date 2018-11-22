@@ -15,3 +15,7 @@ https://medium.com/@nhbond/how-to-copying-what-david-sandberg-did-4bf6e0ad3cd5
 4)Actual math algorithms are executed in high performing C++. Will learn about them in the next few weeks.
 5)Excited to see how python creates a flow for the math to be executed.
 
+#Links
+1)Original by Mr Sandberg - https://github.com/davidsandberg/facenet
+2)Link to pre-trained model - https://drive.google.com/file/d/1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-/view
+3)Link to addtional reading and alternative methods - https://github.com/davidsandberg/facenet/wiki
