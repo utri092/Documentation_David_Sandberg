@@ -1,6 +1,6 @@
 #This repository contains my experience of using it
 
-# If you have the computing power, feel free to make a model or train a pre-existing model over a huge dataset
+#If you have the computing power feel free to make your own model or use a pre-trained one over a huge dataset
 
 
 #Credits go to Mr Nathan Bond who streamlined the process of learning for me. I am extremely grateful to him for his time
